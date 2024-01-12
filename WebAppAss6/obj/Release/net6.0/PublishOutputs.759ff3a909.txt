@@ -1,0 +1,11 @@
+E:\Phase3 Assignment\Ass6\WebAppAss6\WebAppAss6\obj\Release\net6.0\PubTmp\Out\WebAppAss6.exe
+E:\Phase3 Assignment\Ass6\WebAppAss6\WebAppAss6\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+E:\Phase3 Assignment\Ass6\WebAppAss6\WebAppAss6\obj\Release\net6.0\PubTmp\Out\appsettings.json
+E:\Phase3 Assignment\Ass6\WebAppAss6\WebAppAss6\obj\Release\net6.0\PubTmp\Out\WebAppAss6.dll
+E:\Phase3 Assignment\Ass6\WebAppAss6\WebAppAss6\obj\Release\net6.0\PubTmp\Out\WebAppAss6.deps.json
+E:\Phase3 Assignment\Ass6\WebAppAss6\WebAppAss6\obj\Release\net6.0\PubTmp\Out\WebAppAss6.runtimeconfig.json
+E:\Phase3 Assignment\Ass6\WebAppAss6\WebAppAss6\obj\Release\net6.0\PubTmp\Out\WebAppAss6.pdb
+E:\Phase3 Assignment\Ass6\WebAppAss6\WebAppAss6\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+E:\Phase3 Assignment\Ass6\WebAppAss6\WebAppAss6\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+E:\Phase3 Assignment\Ass6\WebAppAss6\WebAppAss6\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Phase3 Assignment\Ass6\WebAppAss6\WebAppAss6\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
